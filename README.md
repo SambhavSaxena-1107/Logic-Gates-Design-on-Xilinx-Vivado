@@ -1,1 +1,3 @@
-# Logic-Gates-Design-on-Xilinx-Vivado-
+# Logic-Gates-Design-on-Xilinx-Vivado
+Xilinx Vivado is a powerful FPGA design suite that enables the creation and simulation of digital circuits, including fundamental logic gates like NOT, NAND, and NOR. Using Vivado, you can draw schematics or write HDL code (VHDL/Verilog) to define these gates. The suite offers advanced simulation tools to verify the design functionality before deploying it on Xilinx FPGA hardware. Vivado's seamless integration with hardware description languages and robust simulation capabilities make it an excellent choice for designing and optimizing digital logic circuits.
+
